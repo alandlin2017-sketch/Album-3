@@ -1,0 +1,2582 @@
+[
+  {
+    "global_player_number": 1,
+    "name": "Momo Salado",
+    "club": "Liverpool",
+    "clubCode": "L",
+    "position": "RW",
+    "nationality": "EGY",
+    "flag": "EGY",
+    "bio": "El zurdo que corre como si el delivery llegara frio.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_001_momo_salado/player_001_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_001_momo_salado/player_001_base_card.webp",
+      "bronze": "/jugadores_assets/player_001_momo_salado/player_001_bronze_card.webp",
+      "silver": "/jugadores_assets/player_001_momo_salado/player_001_silver_card.webp",
+      "gold": "/jugadores_assets/player_001_momo_salado/player_001_gold_card.webp",
+      "diamond": "/jugadores_assets/player_001_momo_salado/player_001_diamond_card.webp",
+      "opal": "/jugadores_assets/player_001_momo_salado/player_001_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 2,
+    "name": "Kid Vinicio",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "LW",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Pisa la pelota y deja defensores buscando el control remoto.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_002_kid_vinicio/player_002_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_002_kid_vinicio/player_002_base_card.webp",
+      "bronze": "/jugadores_assets/player_002_kid_vinicio/player_002_bronze_card.webp",
+      "silver": "/jugadores_assets/player_002_kid_vinicio/player_002_silver_card.webp",
+      "gold": "/jugadores_assets/player_002_kid_vinicio/player_002_gold_card.webp",
+      "diamond": "/jugadores_assets/player_002_kid_vinicio/player_002_diamond_card.webp",
+      "opal": "/jugadores_assets/player_002_kid_vinicio/player_002_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 3,
+    "name": "Jude Bellingato",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "CM",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Elegante, intenso y con celebracion de estatua con ego sano.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_003_jude_bellingato/player_003_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_003_jude_bellingato/player_003_base_card.webp",
+      "bronze": "/jugadores_assets/player_003_jude_bellingato/player_003_bronze_card.webp",
+      "silver": "/jugadores_assets/player_003_jude_bellingato/player_003_silver_card.webp",
+      "gold": "/jugadores_assets/player_003_jude_bellingato/player_003_gold_card.webp",
+      "diamond": "/jugadores_assets/player_003_jude_bellingato/player_003_diamond_card.webp",
+      "opal": "/jugadores_assets/player_003_jude_bellingato/player_003_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 4,
+    "name": "Kidian Mbatte",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "ST",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Acelera tanto que el marcador pide taxi.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_004_kidian_mbatte/player_004_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_004_kidian_mbatte/player_004_base_card.webp",
+      "bronze": "/jugadores_assets/player_004_kidian_mbatte/player_004_bronze_card.webp",
+      "silver": "/jugadores_assets/player_004_kidian_mbatte/player_004_silver_card.webp",
+      "gold": "/jugadores_assets/player_004_kidian_mbatte/player_004_gold_card.webp",
+      "diamond": "/jugadores_assets/player_004_kidian_mbatte/player_004_diamond_card.webp",
+      "opal": "/jugadores_assets/player_004_kidian_mbatte/player_004_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 5,
+    "name": "Erling Jalando",
+    "club": "Manchesthair City",
+    "clubCode": "MC",
+    "position": "ST",
+    "nationality": "NOR",
+    "flag": "NOR",
+    "bio": "Un tanque rubio que remata hasta los centros mal escritos.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_005_erling_jalando/player_005_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_005_erling_jalando/player_005_base_card.webp",
+      "bronze": "/jugadores_assets/player_005_erling_jalando/player_005_bronze_card.webp",
+      "silver": "/jugadores_assets/player_005_erling_jalando/player_005_silver_card.webp",
+      "gold": "/jugadores_assets/player_005_erling_jalando/player_005_gold_card.webp",
+      "diamond": "/jugadores_assets/player_005_erling_jalando/player_005_diamond_card.webp",
+      "opal": "/jugadores_assets/player_005_erling_jalando/player_005_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 6,
+    "name": "Kevin De Bruyera",
+    "club": "Manchesthair City",
+    "clubCode": "MC",
+    "position": "CAM",
+    "nationality": "BEL",
+    "flag": "BEL",
+    "bio": "Tira pases con GPS y un poquito de mala intencion.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_006_kevin_de_bruyera/player_006_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_006_kevin_de_bruyera/player_006_base_card.webp",
+      "bronze": "/jugadores_assets/player_006_kevin_de_bruyera/player_006_bronze_card.webp",
+      "silver": "/jugadores_assets/player_006_kevin_de_bruyera/player_006_silver_card.webp",
+      "gold": "/jugadores_assets/player_006_kevin_de_bruyera/player_006_gold_card.webp",
+      "diamond": "/jugadores_assets/player_006_kevin_de_bruyera/player_006_diamond_card.webp",
+      "opal": "/jugadores_assets/player_006_kevin_de_bruyera/player_006_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 7,
+    "name": "Phil Fodencho",
+    "club": "Manchesthair City",
+    "clubCode": "MC",
+    "position": "CAM",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Chiquito, filoso y con cara de travesura tactica.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_007_phil_fodencho/player_007_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_007_phil_fodencho/player_007_base_card.webp",
+      "bronze": "/jugadores_assets/player_007_phil_fodencho/player_007_bronze_card.webp",
+      "silver": "/jugadores_assets/player_007_phil_fodencho/player_007_silver_card.webp",
+      "gold": "/jugadores_assets/player_007_phil_fodencho/player_007_gold_card.webp",
+      "diamond": "/jugadores_assets/player_007_phil_fodencho/player_007_diamond_card.webp",
+      "opal": "/jugadores_assets/player_007_phil_fodencho/player_007_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 8,
+    "name": "Bernardo Silba",
+    "club": "Manchesthair City",
+    "clubCode": "MC",
+    "position": "CM",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Gira en espacios donde no entra ni una moneda.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_008_bernardo_silba/player_008_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_008_bernardo_silba/player_008_base_card.webp",
+      "bronze": "/jugadores_assets/player_008_bernardo_silba/player_008_bronze_card.webp",
+      "silver": "/jugadores_assets/player_008_bernardo_silba/player_008_silver_card.webp",
+      "gold": "/jugadores_assets/player_008_bernardo_silba/player_008_gold_card.webp",
+      "diamond": "/jugadores_assets/player_008_bernardo_silba/player_008_diamond_card.webp",
+      "opal": "/jugadores_assets/player_008_bernardo_silba/player_008_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 9,
+    "name": "Rodri Disco",
+    "club": "Manchesthair City",
+    "clubCode": "MC",
+    "position": "CDM",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Ordena el mediocampo como quien acomoda una biblioteca en llamas.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_009_rodri_disco/player_009_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_009_rodri_disco/player_009_base_card.webp",
+      "bronze": "/jugadores_assets/player_009_rodri_disco/player_009_bronze_card.webp",
+      "silver": "/jugadores_assets/player_009_rodri_disco/player_009_silver_card.webp",
+      "gold": "/jugadores_assets/player_009_rodri_disco/player_009_gold_card.webp",
+      "diamond": "/jugadores_assets/player_009_rodri_disco/player_009_diamond_card.webp",
+      "opal": "/jugadores_assets/player_009_rodri_disco/player_009_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 10,
+    "name": "Bukayo Sakita",
+    "club": "Arsenul",
+    "clubCode": "A",
+    "position": "RW",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Ataca con sonrisa tranquila y veneno en la zurda.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_010_bukayo_sakita/player_010_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_010_bukayo_sakita/player_010_base_card.webp",
+      "bronze": "/jugadores_assets/player_010_bukayo_sakita/player_010_bronze_card.webp",
+      "silver": "/jugadores_assets/player_010_bukayo_sakita/player_010_silver_card.webp",
+      "gold": "/jugadores_assets/player_010_bukayo_sakita/player_010_gold_card.webp",
+      "diamond": "/jugadores_assets/player_010_bukayo_sakita/player_010_diamond_card.webp",
+      "opal": "/jugadores_assets/player_010_bukayo_sakita/player_010_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 11,
+    "name": "Martin Odeguardia",
+    "club": "Arsenul",
+    "clubCode": "A",
+    "position": "CAM",
+    "nationality": "NOR",
+    "flag": "NOR",
+    "bio": "Capitan de libreta fina y pases que parecen truco de magia.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_011_martin_odeguardia/player_011_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_011_martin_odeguardia/player_011_base_card.webp",
+      "bronze": "/jugadores_assets/player_011_martin_odeguardia/player_011_bronze_card.webp",
+      "silver": "/jugadores_assets/player_011_martin_odeguardia/player_011_silver_card.webp",
+      "gold": "/jugadores_assets/player_011_martin_odeguardia/player_011_gold_card.webp",
+      "diamond": "/jugadores_assets/player_011_martin_odeguardia/player_011_diamond_card.webp",
+      "opal": "/jugadores_assets/player_011_martin_odeguardia/player_011_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 12,
+    "name": "Declan Arroce",
+    "club": "Arsenul",
+    "clubCode": "A",
+    "position": "CDM",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Recupera pelotas como si las hubiera comprado el.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_012_declan_arroce/player_012_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_012_declan_arroce/player_012_base_card.webp",
+      "bronze": "/jugadores_assets/player_012_declan_arroce/player_012_bronze_card.webp",
+      "silver": "/jugadores_assets/player_012_declan_arroce/player_012_silver_card.webp",
+      "gold": "/jugadores_assets/player_012_declan_arroce/player_012_gold_card.webp",
+      "diamond": "/jugadores_assets/player_012_declan_arroce/player_012_diamond_card.webp",
+      "opal": "/jugadores_assets/player_012_declan_arroce/player_012_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 13,
+    "name": "Kai Havertzado",
+    "club": "Arsenul",
+    "clubCode": "A",
+    "position": "ST",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Aparece raro, define raro, festeja como si todo estuviera calculado.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_013_kai_havertzado/player_013_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_013_kai_havertzado/player_013_base_card.webp",
+      "bronze": "/jugadores_assets/player_013_kai_havertzado/player_013_bronze_card.webp",
+      "silver": "/jugadores_assets/player_013_kai_havertzado/player_013_silver_card.webp",
+      "gold": "/jugadores_assets/player_013_kai_havertzado/player_013_gold_card.webp",
+      "diamond": "/jugadores_assets/player_013_kai_havertzado/player_013_diamond_card.webp",
+      "opal": "/jugadores_assets/player_013_kai_havertzado/player_013_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 14,
+    "name": "Cole Palmerita",
+    "club": "Chelseita FC",
+    "clubCode": "CF",
+    "position": "CAM",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Frio como heladera de supermercado y picante como salsa brava.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_014_cole_palmerita/player_014_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_014_cole_palmerita/player_014_base_card.webp",
+      "bronze": "/jugadores_assets/player_014_cole_palmerita/player_014_bronze_card.webp",
+      "silver": "/jugadores_assets/player_014_cole_palmerita/player_014_silver_card.webp",
+      "gold": "/jugadores_assets/player_014_cole_palmerita/player_014_gold_card.webp",
+      "diamond": "/jugadores_assets/player_014_cole_palmerita/player_014_diamond_card.webp",
+      "opal": "/jugadores_assets/player_014_cole_palmerita/player_014_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 15,
+    "name": "Enzo Fermento",
+    "club": "Chelseita FC",
+    "clubCode": "CF",
+    "position": "CM",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Mete pases de campeon y discusiones de sobremesa.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_015_enzo_fermento/player_015_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_015_enzo_fermento/player_015_base_card.webp",
+      "bronze": "/jugadores_assets/player_015_enzo_fermento/player_015_bronze_card.webp",
+      "silver": "/jugadores_assets/player_015_enzo_fermento/player_015_silver_card.webp",
+      "gold": "/jugadores_assets/player_015_enzo_fermento/player_015_gold_card.webp",
+      "diamond": "/jugadores_assets/player_015_enzo_fermento/player_015_diamond_card.webp",
+      "opal": "/jugadores_assets/player_015_enzo_fermento/player_015_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 16,
+    "name": "Moises Caicedito",
+    "club": "Chelseita FC",
+    "clubCode": "CF",
+    "position": "CDM",
+    "nationality": "ECU",
+    "flag": "ECU",
+    "bio": "Barre el medio con escoba premium.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_016_moises_caicedito/player_016_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_016_moises_caicedito/player_016_base_card.webp",
+      "bronze": "/jugadores_assets/player_016_moises_caicedito/player_016_bronze_card.webp",
+      "silver": "/jugadores_assets/player_016_moises_caicedito/player_016_silver_card.webp",
+      "gold": "/jugadores_assets/player_016_moises_caicedito/player_016_gold_card.webp",
+      "diamond": "/jugadores_assets/player_016_moises_caicedito/player_016_diamond_card.webp",
+      "opal": "/jugadores_assets/player_016_moises_caicedito/player_016_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 17,
+    "name": "Nico Jackson Five",
+    "club": "Chelseita FC",
+    "clubCode": "CF",
+    "position": "ST",
+    "nationality": "SEN",
+    "flag": "SEN",
+    "bio": "Corre mucho, prueba todo y a veces le sale una obra rara.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_017_nico_jackson_five/player_017_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_017_nico_jackson_five/player_017_base_card.webp",
+      "bronze": "/jugadores_assets/player_017_nico_jackson_five/player_017_bronze_card.webp",
+      "silver": "/jugadores_assets/player_017_nico_jackson_five/player_017_silver_card.webp",
+      "gold": "/jugadores_assets/player_017_nico_jackson_five/player_017_gold_card.webp",
+      "diamond": "/jugadores_assets/player_017_nico_jackson_five/player_017_diamond_card.webp",
+      "opal": "/jugadores_assets/player_017_nico_jackson_five/player_017_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 18,
+    "name": "Son Heung-Minuto",
+    "club": "Tottenjam",
+    "clubCode": "T",
+    "position": "LW",
+    "nationality": "KOR",
+    "flag": "KOR",
+    "bio": "Sonrie primero, define despues, destruye siempre.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_018_son_heung_minuto/player_018_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_018_son_heung_minuto/player_018_base_card.webp",
+      "bronze": "/jugadores_assets/player_018_son_heung_minuto/player_018_bronze_card.webp",
+      "silver": "/jugadores_assets/player_018_son_heung_minuto/player_018_silver_card.webp",
+      "gold": "/jugadores_assets/player_018_son_heung_minuto/player_018_gold_card.webp",
+      "diamond": "/jugadores_assets/player_018_son_heung_minuto/player_018_diamond_card.webp",
+      "opal": "/jugadores_assets/player_018_son_heung_minuto/player_018_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 19,
+    "name": "James Maddisondo",
+    "club": "Tottenjam",
+    "clubCode": "T",
+    "position": "CAM",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Pone fantasia incluso cuando el partido pide casco.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_019_james_maddisondo/player_019_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_019_james_maddisondo/player_019_base_card.webp",
+      "bronze": "/jugadores_assets/player_019_james_maddisondo/player_019_bronze_card.webp",
+      "silver": "/jugadores_assets/player_019_james_maddisondo/player_019_silver_card.webp",
+      "gold": "/jugadores_assets/player_019_james_maddisondo/player_019_gold_card.webp",
+      "diamond": "/jugadores_assets/player_019_james_maddisondo/player_019_diamond_card.webp",
+      "opal": "/jugadores_assets/player_019_james_maddisondo/player_019_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 20,
+    "name": "Cristian Romerazo",
+    "club": "Tottenjam",
+    "clubCode": "T",
+    "position": "CB",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Defiende con cara de no haber venido a hacer amigos.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_020_cristian_romerazo/player_020_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_020_cristian_romerazo/player_020_base_card.webp",
+      "bronze": "/jugadores_assets/player_020_cristian_romerazo/player_020_bronze_card.webp",
+      "silver": "/jugadores_assets/player_020_cristian_romerazo/player_020_silver_card.webp",
+      "gold": "/jugadores_assets/player_020_cristian_romerazo/player_020_gold_card.webp",
+      "diamond": "/jugadores_assets/player_020_cristian_romerazo/player_020_diamond_card.webp",
+      "opal": "/jugadores_assets/player_020_cristian_romerazo/player_020_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 21,
+    "name": "Bruno Fernanchez",
+    "club": "Manchesthair United",
+    "clubCode": "MU",
+    "position": "CAM",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Se queja, asiste y tira penales con teatro incluido.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_021_bruno_fernanchez/player_021_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_021_bruno_fernanchez/player_021_base_card.webp",
+      "bronze": "/jugadores_assets/player_021_bruno_fernanchez/player_021_bronze_card.webp",
+      "silver": "/jugadores_assets/player_021_bruno_fernanchez/player_021_silver_card.webp",
+      "gold": "/jugadores_assets/player_021_bruno_fernanchez/player_021_gold_card.webp",
+      "diamond": "/jugadores_assets/player_021_bruno_fernanchez/player_021_diamond_card.webp",
+      "opal": "/jugadores_assets/player_021_bruno_fernanchez/player_021_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 22,
+    "name": "Marcus Rashfordio",
+    "club": "Manchesthair United",
+    "clubCode": "MU",
+    "position": "LW",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Cuando arranca derecho, el lateral revisa su contrato.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_022_marcus_rashfordio/player_022_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_022_marcus_rashfordio/player_022_base_card.webp",
+      "bronze": "/jugadores_assets/player_022_marcus_rashfordio/player_022_bronze_card.webp",
+      "silver": "/jugadores_assets/player_022_marcus_rashfordio/player_022_silver_card.webp",
+      "gold": "/jugadores_assets/player_022_marcus_rashfordio/player_022_gold_card.webp",
+      "diamond": "/jugadores_assets/player_022_marcus_rashfordio/player_022_diamond_card.webp",
+      "opal": "/jugadores_assets/player_022_marcus_rashfordio/player_022_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 23,
+    "name": "Alejandro Garnachito",
+    "club": "Manchesthair United",
+    "clubCode": "MU",
+    "position": "RW",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Bicicleta, rebeldia y peinado de jugador desbloqueable.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_023_alejandro_garnachito/player_023_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_023_alejandro_garnachito/player_023_base_card.webp",
+      "bronze": "/jugadores_assets/player_023_alejandro_garnachito/player_023_bronze_card.webp",
+      "silver": "/jugadores_assets/player_023_alejandro_garnachito/player_023_silver_card.webp",
+      "gold": "/jugadores_assets/player_023_alejandro_garnachito/player_023_gold_card.webp",
+      "diamond": "/jugadores_assets/player_023_alejandro_garnachito/player_023_diamond_card.webp",
+      "opal": "/jugadores_assets/player_023_alejandro_garnachito/player_023_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 24,
+    "name": "Rasmus Hojlondo",
+    "club": "Manchesthair United",
+    "clubCode": "MU",
+    "position": "ST",
+    "nationality": "DEN",
+    "flag": "DEN",
+    "bio": "Potencia nordica con manual todavia en beta.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_024_rasmus_hojlondo/player_024_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_024_rasmus_hojlondo/player_024_base_card.webp",
+      "bronze": "/jugadores_assets/player_024_rasmus_hojlondo/player_024_bronze_card.webp",
+      "silver": "/jugadores_assets/player_024_rasmus_hojlondo/player_024_silver_card.webp",
+      "gold": "/jugadores_assets/player_024_rasmus_hojlondo/player_024_gold_card.webp",
+      "diamond": "/jugadores_assets/player_024_rasmus_hojlondo/player_024_diamond_card.webp",
+      "opal": "/jugadores_assets/player_024_rasmus_hojlondo/player_024_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 25,
+    "name": "Lautaro Martillo",
+    "club": "Inter de Milanesa",
+    "clubCode": "IDM",
+    "position": "ST",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Toro de area, cabezazo de furia y festejo de barrio.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_025_lautaro_martillo/player_025_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_025_lautaro_martillo/player_025_base_card.webp",
+      "bronze": "/jugadores_assets/player_025_lautaro_martillo/player_025_bronze_card.webp",
+      "silver": "/jugadores_assets/player_025_lautaro_martillo/player_025_silver_card.webp",
+      "gold": "/jugadores_assets/player_025_lautaro_martillo/player_025_gold_card.webp",
+      "diamond": "/jugadores_assets/player_025_lautaro_martillo/player_025_diamond_card.webp",
+      "opal": "/jugadores_assets/player_025_lautaro_martillo/player_025_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 26,
+    "name": "Nicolo Barellita",
+    "club": "Inter de Milanesa",
+    "clubCode": "IDM",
+    "position": "CM",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Corre, grita y juega como espresso doble.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_026_nicolo_barellita/player_026_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_026_nicolo_barellita/player_026_base_card.webp",
+      "bronze": "/jugadores_assets/player_026_nicolo_barellita/player_026_bronze_card.webp",
+      "silver": "/jugadores_assets/player_026_nicolo_barellita/player_026_silver_card.webp",
+      "gold": "/jugadores_assets/player_026_nicolo_barellita/player_026_gold_card.webp",
+      "diamond": "/jugadores_assets/player_026_nicolo_barellita/player_026_diamond_card.webp",
+      "opal": "/jugadores_assets/player_026_nicolo_barellita/player_026_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 27,
+    "name": "Federico Dimarcazo",
+    "club": "Inter de Milanesa",
+    "clubCode": "IDM",
+    "position": "LB",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Centra como lateral y celebra como delantero frustrado.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_027_federico_dimarcazo/player_027_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_027_federico_dimarcazo/player_027_base_card.webp",
+      "bronze": "/jugadores_assets/player_027_federico_dimarcazo/player_027_bronze_card.webp",
+      "silver": "/jugadores_assets/player_027_federico_dimarcazo/player_027_silver_card.webp",
+      "gold": "/jugadores_assets/player_027_federico_dimarcazo/player_027_gold_card.webp",
+      "diamond": "/jugadores_assets/player_027_federico_dimarcazo/player_027_diamond_card.webp",
+      "opal": "/jugadores_assets/player_027_federico_dimarcazo/player_027_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 28,
+    "name": "Marcus Thurambo",
+    "club": "Inter de Milanesa",
+    "clubCode": "IDM",
+    "position": "ST",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Zancada larga y sonrisa de quien acaba de romper una linea.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_028_marcus_thurambo/player_028_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_028_marcus_thurambo/player_028_base_card.webp",
+      "bronze": "/jugadores_assets/player_028_marcus_thurambo/player_028_bronze_card.webp",
+      "silver": "/jugadores_assets/player_028_marcus_thurambo/player_028_silver_card.webp",
+      "gold": "/jugadores_assets/player_028_marcus_thurambo/player_028_gold_card.webp",
+      "diamond": "/jugadores_assets/player_028_marcus_thurambo/player_028_diamond_card.webp",
+      "opal": "/jugadores_assets/player_028_marcus_thurambo/player_028_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 29,
+    "name": "Rafael Leaozinho",
+    "club": "AC Milanesa",
+    "clubCode": "AM",
+    "position": "LW",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Gambeta elastica y actitud de videoclip.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_029_rafael_leaozinho/player_029_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_029_rafael_leaozinho/player_029_base_card.webp",
+      "bronze": "/jugadores_assets/player_029_rafael_leaozinho/player_029_bronze_card.webp",
+      "silver": "/jugadores_assets/player_029_rafael_leaozinho/player_029_silver_card.webp",
+      "gold": "/jugadores_assets/player_029_rafael_leaozinho/player_029_gold_card.webp",
+      "diamond": "/jugadores_assets/player_029_rafael_leaozinho/player_029_diamond_card.webp",
+      "opal": "/jugadores_assets/player_029_rafael_leaozinho/player_029_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 30,
+    "name": "Theo Hernandazo",
+    "club": "AC Milanesa",
+    "clubCode": "AM",
+    "position": "LB",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Lateral que sube como si tuviera turbo ilegal.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_030_theo_hernandazo/player_030_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_030_theo_hernandazo/player_030_base_card.webp",
+      "bronze": "/jugadores_assets/player_030_theo_hernandazo/player_030_bronze_card.webp",
+      "silver": "/jugadores_assets/player_030_theo_hernandazo/player_030_silver_card.webp",
+      "gold": "/jugadores_assets/player_030_theo_hernandazo/player_030_gold_card.webp",
+      "diamond": "/jugadores_assets/player_030_theo_hernandazo/player_030_diamond_card.webp",
+      "opal": "/jugadores_assets/player_030_theo_hernandazo/player_030_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 31,
+    "name": "Mike Maignante",
+    "club": "AC Milanesa",
+    "clubCode": "AM",
+    "position": "GK",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Arquero serio, manos grandes y reflejos de alarma.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_031_mike_maignante/player_031_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_031_mike_maignante/player_031_base_card.webp",
+      "bronze": "/jugadores_assets/player_031_mike_maignante/player_031_bronze_card.webp",
+      "silver": "/jugadores_assets/player_031_mike_maignante/player_031_silver_card.webp",
+      "gold": "/jugadores_assets/player_031_mike_maignante/player_031_gold_card.webp",
+      "diamond": "/jugadores_assets/player_031_mike_maignante/player_031_diamond_card.webp",
+      "opal": "/jugadores_assets/player_031_mike_maignante/player_031_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 32,
+    "name": "Christian Pulisalsa",
+    "club": "AC Milanesa",
+    "clubCode": "AM",
+    "position": "RW",
+    "nationality": "USA",
+    "flag": "USA",
+    "bio": "Corre por banda con salsa, ketchup y final cruzado.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_032_christian_pulisalsa/player_032_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_032_christian_pulisalsa/player_032_base_card.webp",
+      "bronze": "/jugadores_assets/player_032_christian_pulisalsa/player_032_bronze_card.webp",
+      "silver": "/jugadores_assets/player_032_christian_pulisalsa/player_032_silver_card.webp",
+      "gold": "/jugadores_assets/player_032_christian_pulisalsa/player_032_gold_card.webp",
+      "diamond": "/jugadores_assets/player_032_christian_pulisalsa/player_032_diamond_card.webp",
+      "opal": "/jugadores_assets/player_032_christian_pulisalsa/player_032_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 33,
+    "name": "Victor Osimhenazo",
+    "club": "Napolito",
+    "clubCode": "N",
+    "position": "ST",
+    "nationality": "NGA",
+    "flag": "NGA",
+    "bio": "Salta como resorte y asusta centrales por contrato.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_033_victor_osimhenazo/player_033_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_033_victor_osimhenazo/player_033_base_card.webp",
+      "bronze": "/jugadores_assets/player_033_victor_osimhenazo/player_033_bronze_card.webp",
+      "silver": "/jugadores_assets/player_033_victor_osimhenazo/player_033_silver_card.webp",
+      "gold": "/jugadores_assets/player_033_victor_osimhenazo/player_033_gold_card.webp",
+      "diamond": "/jugadores_assets/player_033_victor_osimhenazo/player_033_diamond_card.webp",
+      "opal": "/jugadores_assets/player_033_victor_osimhenazo/player_033_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 34,
+    "name": "Khvicha Kvaradona",
+    "club": "Napolito",
+    "clubCode": "N",
+    "position": "LW",
+    "nationality": "GEO",
+    "flag": "GEO",
+    "bio": "Nombre largo, gambeta corta y caos hermoso.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_034_khvicha_kvaradona/player_034_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_034_khvicha_kvaradona/player_034_base_card.webp",
+      "bronze": "/jugadores_assets/player_034_khvicha_kvaradona/player_034_bronze_card.webp",
+      "silver": "/jugadores_assets/player_034_khvicha_kvaradona/player_034_silver_card.webp",
+      "gold": "/jugadores_assets/player_034_khvicha_kvaradona/player_034_gold_card.webp",
+      "diamond": "/jugadores_assets/player_034_khvicha_kvaradona/player_034_diamond_card.webp",
+      "opal": "/jugadores_assets/player_034_khvicha_kvaradona/player_034_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 35,
+    "name": "Stanislav Lobotkita",
+    "club": "Napolito",
+    "clubCode": "N",
+    "position": "CM",
+    "nationality": "SVK",
+    "flag": "SVK",
+    "bio": "El mediocentro que parece peque\u00f1o hasta que no la perdio nunca.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_035_stanislav_lobotkita/player_035_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_035_stanislav_lobotkita/player_035_base_card.webp",
+      "bronze": "/jugadores_assets/player_035_stanislav_lobotkita/player_035_bronze_card.webp",
+      "silver": "/jugadores_assets/player_035_stanislav_lobotkita/player_035_silver_card.webp",
+      "gold": "/jugadores_assets/player_035_stanislav_lobotkita/player_035_gold_card.webp",
+      "diamond": "/jugadores_assets/player_035_stanislav_lobotkita/player_035_diamond_card.webp",
+      "opal": "/jugadores_assets/player_035_stanislav_lobotkita/player_035_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 36,
+    "name": "Dusan Vlahovicci",
+    "club": "Juventusaurio",
+    "clubCode": "J",
+    "position": "ST",
+    "nationality": "SRB",
+    "flag": "SRB",
+    "bio": "Zurda pesada y mirada de villano de final europea.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_036_dusan_vlahovicci/player_036_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_036_dusan_vlahovicci/player_036_base_card.webp",
+      "bronze": "/jugadores_assets/player_036_dusan_vlahovicci/player_036_bronze_card.webp",
+      "silver": "/jugadores_assets/player_036_dusan_vlahovicci/player_036_silver_card.webp",
+      "gold": "/jugadores_assets/player_036_dusan_vlahovicci/player_036_gold_card.webp",
+      "diamond": "/jugadores_assets/player_036_dusan_vlahovicci/player_036_diamond_card.webp",
+      "opal": "/jugadores_assets/player_036_dusan_vlahovicci/player_036_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 37,
+    "name": "Federico Chiesita",
+    "club": "Juventusaurio",
+    "clubCode": "J",
+    "position": "RW",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Acelera en zigzag como carrito con una rueda nerviosa.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_037_federico_chiesita/player_037_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_037_federico_chiesita/player_037_base_card.webp",
+      "bronze": "/jugadores_assets/player_037_federico_chiesita/player_037_bronze_card.webp",
+      "silver": "/jugadores_assets/player_037_federico_chiesita/player_037_silver_card.webp",
+      "gold": "/jugadores_assets/player_037_federico_chiesita/player_037_gold_card.webp",
+      "diamond": "/jugadores_assets/player_037_federico_chiesita/player_037_diamond_card.webp",
+      "opal": "/jugadores_assets/player_037_federico_chiesita/player_037_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 38,
+    "name": "Adrien Rabiotero",
+    "club": "Juventusaurio",
+    "clubCode": "J",
+    "position": "CM",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Melenudo, tecnico y misterioso como upgrade nocturno.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_038_adrien_rabiotero/player_038_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_038_adrien_rabiotero/player_038_base_card.webp",
+      "bronze": "/jugadores_assets/player_038_adrien_rabiotero/player_038_bronze_card.webp",
+      "silver": "/jugadores_assets/player_038_adrien_rabiotero/player_038_silver_card.webp",
+      "gold": "/jugadores_assets/player_038_adrien_rabiotero/player_038_gold_card.webp",
+      "diamond": "/jugadores_assets/player_038_adrien_rabiotero/player_038_diamond_card.webp",
+      "opal": "/jugadores_assets/player_038_adrien_rabiotero/player_038_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 39,
+    "name": "Paulo Dybalita",
+    "club": "Roma Imperial",
+    "clubCode": "RI",
+    "position": "CAM",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "La joya que parece triste hasta que la cuelga en el angulo.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_039_paulo_dybalita/player_039_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_039_paulo_dybalita/player_039_base_card.webp",
+      "bronze": "/jugadores_assets/player_039_paulo_dybalita/player_039_bronze_card.webp",
+      "silver": "/jugadores_assets/player_039_paulo_dybalita/player_039_silver_card.webp",
+      "gold": "/jugadores_assets/player_039_paulo_dybalita/player_039_gold_card.webp",
+      "diamond": "/jugadores_assets/player_039_paulo_dybalita/player_039_diamond_card.webp",
+      "opal": "/jugadores_assets/player_039_paulo_dybalita/player_039_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 40,
+    "name": "Romelu Lukakazo",
+    "club": "Roma Imperial",
+    "clubCode": "RI",
+    "position": "ST",
+    "nationality": "BEL",
+    "flag": "BEL",
+    "bio": "Espalda gigante, pie potente y centrales con dolor de agenda.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_040_romelu_lukakazo/player_040_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_040_romelu_lukakazo/player_040_base_card.webp",
+      "bronze": "/jugadores_assets/player_040_romelu_lukakazo/player_040_bronze_card.webp",
+      "silver": "/jugadores_assets/player_040_romelu_lukakazo/player_040_silver_card.webp",
+      "gold": "/jugadores_assets/player_040_romelu_lukakazo/player_040_gold_card.webp",
+      "diamond": "/jugadores_assets/player_040_romelu_lukakazo/player_040_diamond_card.webp",
+      "opal": "/jugadores_assets/player_040_romelu_lukakazo/player_040_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 41,
+    "name": "Lorenzo Pellegrincho",
+    "club": "Roma Imperial",
+    "clubCode": "RI",
+    "position": "CM",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Capitan con clase y pase de mantel blanco.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_041_lorenzo_pellegrincho/player_041_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_041_lorenzo_pellegrincho/player_041_base_card.webp",
+      "bronze": "/jugadores_assets/player_041_lorenzo_pellegrincho/player_041_bronze_card.webp",
+      "silver": "/jugadores_assets/player_041_lorenzo_pellegrincho/player_041_silver_card.webp",
+      "gold": "/jugadores_assets/player_041_lorenzo_pellegrincho/player_041_gold_card.webp",
+      "diamond": "/jugadores_assets/player_041_lorenzo_pellegrincho/player_041_diamond_card.webp",
+      "opal": "/jugadores_assets/player_041_lorenzo_pellegrincho/player_041_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 42,
+    "name": "Harry Kaneo",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "ST",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Goleador puntual en una liga que todavia no sabe como frenarlo.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_042_harry_kaneo/player_042_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_042_harry_kaneo/player_042_base_card.webp",
+      "bronze": "/jugadores_assets/player_042_harry_kaneo/player_042_bronze_card.webp",
+      "silver": "/jugadores_assets/player_042_harry_kaneo/player_042_silver_card.webp",
+      "gold": "/jugadores_assets/player_042_harry_kaneo/player_042_gold_card.webp",
+      "diamond": "/jugadores_assets/player_042_harry_kaneo/player_042_diamond_card.webp",
+      "opal": "/jugadores_assets/player_042_harry_kaneo/player_042_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 43,
+    "name": "Jamal Musiala-la",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "CAM",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Baila entre rivales como si el pasto tuviera joystick.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_043_jamal_musiala_la/player_043_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_043_jamal_musiala_la/player_043_base_card.webp",
+      "bronze": "/jugadores_assets/player_043_jamal_musiala_la/player_043_bronze_card.webp",
+      "silver": "/jugadores_assets/player_043_jamal_musiala_la/player_043_silver_card.webp",
+      "gold": "/jugadores_assets/player_043_jamal_musiala_la/player_043_gold_card.webp",
+      "diamond": "/jugadores_assets/player_043_jamal_musiala_la/player_043_diamond_card.webp",
+      "opal": "/jugadores_assets/player_043_jamal_musiala_la/player_043_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 44,
+    "name": "Leroy Saneito",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "RW",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Velocidad, zurda y una ceja tactica permanente.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_044_leroy_saneito/player_044_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_044_leroy_saneito/player_044_base_card.webp",
+      "bronze": "/jugadores_assets/player_044_leroy_saneito/player_044_bronze_card.webp",
+      "silver": "/jugadores_assets/player_044_leroy_saneito/player_044_silver_card.webp",
+      "gold": "/jugadores_assets/player_044_leroy_saneito/player_044_gold_card.webp",
+      "diamond": "/jugadores_assets/player_044_leroy_saneito/player_044_diamond_card.webp",
+      "opal": "/jugadores_assets/player_044_leroy_saneito/player_044_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 45,
+    "name": "Joshua Kimmichurri",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "CDM",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Lidera hasta el calentamiento con cara de examen.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_045_joshua_kimmichurri/player_045_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_045_joshua_kimmichurri/player_045_base_card.webp",
+      "bronze": "/jugadores_assets/player_045_joshua_kimmichurri/player_045_bronze_card.webp",
+      "silver": "/jugadores_assets/player_045_joshua_kimmichurri/player_045_silver_card.webp",
+      "gold": "/jugadores_assets/player_045_joshua_kimmichurri/player_045_gold_card.webp",
+      "diamond": "/jugadores_assets/player_045_joshua_kimmichurri/player_045_diamond_card.webp",
+      "opal": "/jugadores_assets/player_045_joshua_kimmichurri/player_045_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 46,
+    "name": "Florian Wirtzito",
+    "club": "Bayer Neverlusen",
+    "clubCode": "BN",
+    "position": "CAM",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Talento joven con pases que vienen firmados.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_046_florian_wirtzito/player_046_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_046_florian_wirtzito/player_046_base_card.webp",
+      "bronze": "/jugadores_assets/player_046_florian_wirtzito/player_046_bronze_card.webp",
+      "silver": "/jugadores_assets/player_046_florian_wirtzito/player_046_silver_card.webp",
+      "gold": "/jugadores_assets/player_046_florian_wirtzito/player_046_gold_card.webp",
+      "diamond": "/jugadores_assets/player_046_florian_wirtzito/player_046_diamond_card.webp",
+      "opal": "/jugadores_assets/player_046_florian_wirtzito/player_046_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 47,
+    "name": "Granit Xhaketa",
+    "club": "Bayer Neverlusen",
+    "clubCode": "BN",
+    "position": "CM",
+    "nationality": "SUI",
+    "flag": "SUI",
+    "bio": "Veterano de ceja fuerte y cambio de frente con autoridad.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_047_granit_xhaketa/player_047_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_047_granit_xhaketa/player_047_base_card.webp",
+      "bronze": "/jugadores_assets/player_047_granit_xhaketa/player_047_bronze_card.webp",
+      "silver": "/jugadores_assets/player_047_granit_xhaketa/player_047_silver_card.webp",
+      "gold": "/jugadores_assets/player_047_granit_xhaketa/player_047_gold_card.webp",
+      "diamond": "/jugadores_assets/player_047_granit_xhaketa/player_047_diamond_card.webp",
+      "opal": "/jugadores_assets/player_047_granit_xhaketa/player_047_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 48,
+    "name": "Victor Bonifaceo",
+    "club": "Bayer Neverlusen",
+    "clubCode": "BN",
+    "position": "ST",
+    "nationality": "NGA",
+    "flag": "NGA",
+    "bio": "Potencia alegre, choque limpio y celebracion con resorte.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_048_victor_bonifaceo/player_048_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_048_victor_bonifaceo/player_048_base_card.webp",
+      "bronze": "/jugadores_assets/player_048_victor_bonifaceo/player_048_bronze_card.webp",
+      "silver": "/jugadores_assets/player_048_victor_bonifaceo/player_048_silver_card.webp",
+      "gold": "/jugadores_assets/player_048_victor_bonifaceo/player_048_gold_card.webp",
+      "diamond": "/jugadores_assets/player_048_victor_bonifaceo/player_048_diamond_card.webp",
+      "opal": "/jugadores_assets/player_048_victor_bonifaceo/player_048_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 49,
+    "name": "Serhou Guirassyta",
+    "club": "Borusilla Dortmund",
+    "clubCode": "BD",
+    "position": "ST",
+    "nationality": "GUI",
+    "flag": "GUI",
+    "bio": "Define como si hubiera leido el final antes.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_049_serhou_guirassyta/player_049_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_049_serhou_guirassyta/player_049_base_card.webp",
+      "bronze": "/jugadores_assets/player_049_serhou_guirassyta/player_049_bronze_card.webp",
+      "silver": "/jugadores_assets/player_049_serhou_guirassyta/player_049_silver_card.webp",
+      "gold": "/jugadores_assets/player_049_serhou_guirassyta/player_049_gold_card.webp",
+      "diamond": "/jugadores_assets/player_049_serhou_guirassyta/player_049_diamond_card.webp",
+      "opal": "/jugadores_assets/player_049_serhou_guirassyta/player_049_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 50,
+    "name": "Julian Brandtazo",
+    "club": "Borusilla Dortmund",
+    "clubCode": "BD",
+    "position": "CAM",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Pase fino, pelo ordenado y peligro con etiqueta amarilla.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_050_julian_brandtazo/player_050_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_050_julian_brandtazo/player_050_base_card.webp",
+      "bronze": "/jugadores_assets/player_050_julian_brandtazo/player_050_bronze_card.webp",
+      "silver": "/jugadores_assets/player_050_julian_brandtazo/player_050_silver_card.webp",
+      "gold": "/jugadores_assets/player_050_julian_brandtazo/player_050_gold_card.webp",
+      "diamond": "/jugadores_assets/player_050_julian_brandtazo/player_050_diamond_card.webp",
+      "opal": "/jugadores_assets/player_050_julian_brandtazo/player_050_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 51,
+    "name": "Karim Adeyemito",
+    "club": "Borusilla Dortmund",
+    "clubCode": "BD",
+    "position": "LW",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Corre tan rapido que el VAR pide captura de pantalla.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_051_karim_adeyemito/player_051_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_051_karim_adeyemito/player_051_base_card.webp",
+      "bronze": "/jugadores_assets/player_051_karim_adeyemito/player_051_bronze_card.webp",
+      "silver": "/jugadores_assets/player_051_karim_adeyemito/player_051_silver_card.webp",
+      "gold": "/jugadores_assets/player_051_karim_adeyemito/player_051_gold_card.webp",
+      "diamond": "/jugadores_assets/player_051_karim_adeyemito/player_051_diamond_card.webp",
+      "opal": "/jugadores_assets/player_051_karim_adeyemito/player_051_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 52,
+    "name": "Marco Reusito",
+    "club": "Borusilla Dortmund",
+    "clubCode": "BD",
+    "position": "CAM",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Elegancia veterana con drama incluido en cada toque.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_052_marco_reusito/player_052_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_052_marco_reusito/player_052_base_card.webp",
+      "bronze": "/jugadores_assets/player_052_marco_reusito/player_052_bronze_card.webp",
+      "silver": "/jugadores_assets/player_052_marco_reusito/player_052_silver_card.webp",
+      "gold": "/jugadores_assets/player_052_marco_reusito/player_052_gold_card.webp",
+      "diamond": "/jugadores_assets/player_052_marco_reusito/player_052_diamond_card.webp",
+      "opal": "/jugadores_assets/player_052_marco_reusito/player_052_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 53,
+    "name": "Ousmane Dembelele",
+    "club": "Paris Saint-Germen",
+    "clubCode": "PS",
+    "position": "RW",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Dos piernas, mil amagues y una ruleta emocional.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_053_ousmane_dembelele/player_053_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_053_ousmane_dembelele/player_053_base_card.webp",
+      "bronze": "/jugadores_assets/player_053_ousmane_dembelele/player_053_bronze_card.webp",
+      "silver": "/jugadores_assets/player_053_ousmane_dembelele/player_053_silver_card.webp",
+      "gold": "/jugadores_assets/player_053_ousmane_dembelele/player_053_gold_card.webp",
+      "diamond": "/jugadores_assets/player_053_ousmane_dembelele/player_053_diamond_card.webp",
+      "opal": "/jugadores_assets/player_053_ousmane_dembelele/player_053_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 54,
+    "name": "Achraf Hakimimi",
+    "club": "Paris Saint-Germen",
+    "clubCode": "PS",
+    "position": "RB",
+    "nationality": "MAR",
+    "flag": "MAR",
+    "bio": "Lateral que llega antes que el centrocampista que lo cubria.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_054_achraf_hakimimi/player_054_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_054_achraf_hakimimi/player_054_base_card.webp",
+      "bronze": "/jugadores_assets/player_054_achraf_hakimimi/player_054_bronze_card.webp",
+      "silver": "/jugadores_assets/player_054_achraf_hakimimi/player_054_silver_card.webp",
+      "gold": "/jugadores_assets/player_054_achraf_hakimimi/player_054_gold_card.webp",
+      "diamond": "/jugadores_assets/player_054_achraf_hakimimi/player_054_diamond_card.webp",
+      "opal": "/jugadores_assets/player_054_achraf_hakimimi/player_054_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 55,
+    "name": "Gigi Donnarumba",
+    "club": "Paris Saint-Germen",
+    "clubCode": "PS",
+    "position": "GK",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Portero enorme con nombre de tambor heroico.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_055_gigi_donnarumba/player_055_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_055_gigi_donnarumba/player_055_base_card.webp",
+      "bronze": "/jugadores_assets/player_055_gigi_donnarumba/player_055_bronze_card.webp",
+      "silver": "/jugadores_assets/player_055_gigi_donnarumba/player_055_silver_card.webp",
+      "gold": "/jugadores_assets/player_055_gigi_donnarumba/player_055_gold_card.webp",
+      "diamond": "/jugadores_assets/player_055_gigi_donnarumba/player_055_diamond_card.webp",
+      "opal": "/jugadores_assets/player_055_gigi_donnarumba/player_055_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 56,
+    "name": "Vitinha Chips",
+    "club": "Paris Saint-Germen",
+    "clubCode": "PS",
+    "position": "CM",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Mediocampista de toque rapido y sonrisa de truco simple.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_056_vitinha_chips/player_056_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_056_vitinha_chips/player_056_base_card.webp",
+      "bronze": "/jugadores_assets/player_056_vitinha_chips/player_056_bronze_card.webp",
+      "silver": "/jugadores_assets/player_056_vitinha_chips/player_056_silver_card.webp",
+      "gold": "/jugadores_assets/player_056_vitinha_chips/player_056_gold_card.webp",
+      "diamond": "/jugadores_assets/player_056_vitinha_chips/player_056_diamond_card.webp",
+      "opal": "/jugadores_assets/player_056_vitinha_chips/player_056_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 57,
+    "name": "Antoine Griezmannito",
+    "club": "Atletico Madrile\u00f1o",
+    "clubCode": "AM",
+    "position": "ST",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Hace de todo y encima parece disfrutar el sufrimiento tactico.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_057_antoine_griezmannito/player_057_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_057_antoine_griezmannito/player_057_base_card.webp",
+      "bronze": "/jugadores_assets/player_057_antoine_griezmannito/player_057_bronze_card.webp",
+      "silver": "/jugadores_assets/player_057_antoine_griezmannito/player_057_silver_card.webp",
+      "gold": "/jugadores_assets/player_057_antoine_griezmannito/player_057_gold_card.webp",
+      "diamond": "/jugadores_assets/player_057_antoine_griezmannito/player_057_diamond_card.webp",
+      "opal": "/jugadores_assets/player_057_antoine_griezmannito/player_057_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 58,
+    "name": "Jan Oblakazo",
+    "club": "Atletico Madrile\u00f1o",
+    "clubCode": "AM",
+    "position": "GK",
+    "nationality": "SVN",
+    "flag": "SVN",
+    "bio": "Arquero de hielo que tapa hasta los malos recuerdos.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_058_jan_oblakazo/player_058_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_058_jan_oblakazo/player_058_base_card.webp",
+      "bronze": "/jugadores_assets/player_058_jan_oblakazo/player_058_bronze_card.webp",
+      "silver": "/jugadores_assets/player_058_jan_oblakazo/player_058_silver_card.webp",
+      "gold": "/jugadores_assets/player_058_jan_oblakazo/player_058_gold_card.webp",
+      "diamond": "/jugadores_assets/player_058_jan_oblakazo/player_058_diamond_card.webp",
+      "opal": "/jugadores_assets/player_058_jan_oblakazo/player_058_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 59,
+    "name": "Rodrigo De Paulera",
+    "club": "Atletico Madrile\u00f1o",
+    "clubCode": "AM",
+    "position": "CM",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Mate, roce y pase con firulete de barrio premium.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_059_rodrigo_de_paulera/player_059_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_059_rodrigo_de_paulera/player_059_base_card.webp",
+      "bronze": "/jugadores_assets/player_059_rodrigo_de_paulera/player_059_bronze_card.webp",
+      "silver": "/jugadores_assets/player_059_rodrigo_de_paulera/player_059_silver_card.webp",
+      "gold": "/jugadores_assets/player_059_rodrigo_de_paulera/player_059_gold_card.webp",
+      "diamond": "/jugadores_assets/player_059_rodrigo_de_paulera/player_059_diamond_card.webp",
+      "opal": "/jugadores_assets/player_059_rodrigo_de_paulera/player_059_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 60,
+    "name": "Alvaro Moratita",
+    "club": "Atletico Madrile\u00f1o",
+    "clubCode": "AM",
+    "position": "ST",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Vive al limite del offside y de la paciencia ajena.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_060_alvaro_moratita/player_060_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_060_alvaro_moratita/player_060_base_card.webp",
+      "bronze": "/jugadores_assets/player_060_alvaro_moratita/player_060_bronze_card.webp",
+      "silver": "/jugadores_assets/player_060_alvaro_moratita/player_060_silver_card.webp",
+      "gold": "/jugadores_assets/player_060_alvaro_moratita/player_060_gold_card.webp",
+      "diamond": "/jugadores_assets/player_060_alvaro_moratita/player_060_diamond_card.webp",
+      "opal": "/jugadores_assets/player_060_alvaro_moratita/player_060_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 61,
+    "name": "Robert Lewangolsky",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "ST",
+    "nationality": "POL",
+    "flag": "POL",
+    "bio": "Manual de gol con tapa dura y olfato de kiosco abierto.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_061_robert_lewangolsky/player_061_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_061_robert_lewangolsky/player_061_base_card.webp",
+      "bronze": "/jugadores_assets/player_061_robert_lewangolsky/player_061_bronze_card.webp",
+      "silver": "/jugadores_assets/player_061_robert_lewangolsky/player_061_silver_card.webp",
+      "gold": "/jugadores_assets/player_061_robert_lewangolsky/player_061_gold_card.webp",
+      "diamond": "/jugadores_assets/player_061_robert_lewangolsky/player_061_diamond_card.webp",
+      "opal": "/jugadores_assets/player_061_robert_lewangolsky/player_061_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 62,
+    "name": "Pedri Potter",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "CM",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Toca suave y desaparece marcas como hechizo de posesion.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_062_pedri_potter/player_062_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_062_pedri_potter/player_062_base_card.webp",
+      "bronze": "/jugadores_assets/player_062_pedri_potter/player_062_bronze_card.webp",
+      "silver": "/jugadores_assets/player_062_pedri_potter/player_062_silver_card.webp",
+      "gold": "/jugadores_assets/player_062_pedri_potter/player_062_gold_card.webp",
+      "diamond": "/jugadores_assets/player_062_pedri_potter/player_062_diamond_card.webp",
+      "opal": "/jugadores_assets/player_062_pedri_potter/player_062_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 63,
+    "name": "Gavi Gavilan",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "CM",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Va a cada pelota como si le debieran plata.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_063_gavi_gavilan/player_063_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_063_gavi_gavilan/player_063_base_card.webp",
+      "bronze": "/jugadores_assets/player_063_gavi_gavilan/player_063_bronze_card.webp",
+      "silver": "/jugadores_assets/player_063_gavi_gavilan/player_063_silver_card.webp",
+      "gold": "/jugadores_assets/player_063_gavi_gavilan/player_063_gold_card.webp",
+      "diamond": "/jugadores_assets/player_063_gavi_gavilan/player_063_diamond_card.webp",
+      "opal": "/jugadores_assets/player_063_gavi_gavilan/player_063_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 64,
+    "name": "Lamine Yamalote",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "RW",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Tan joven que el defensor pide permiso al tutor.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_064_lamine_yamalote/player_064_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_064_lamine_yamalote/player_064_base_card.webp",
+      "bronze": "/jugadores_assets/player_064_lamine_yamalote/player_064_bronze_card.webp",
+      "silver": "/jugadores_assets/player_064_lamine_yamalote/player_064_silver_card.webp",
+      "gold": "/jugadores_assets/player_064_lamine_yamalote/player_064_gold_card.webp",
+      "diamond": "/jugadores_assets/player_064_lamine_yamalote/player_064_diamond_card.webp",
+      "opal": "/jugadores_assets/player_064_lamine_yamalote/player_064_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 65,
+    "name": "Frenkie De Jongle",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "CM",
+    "nationality": "NED",
+    "flag": "NED",
+    "bio": "Conduce la pelota como patinando sobre manteca tactica.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_065_frenkie_de_jongle/player_065_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_065_frenkie_de_jongle/player_065_base_card.webp",
+      "bronze": "/jugadores_assets/player_065_frenkie_de_jongle/player_065_bronze_card.webp",
+      "silver": "/jugadores_assets/player_065_frenkie_de_jongle/player_065_silver_card.webp",
+      "gold": "/jugadores_assets/player_065_frenkie_de_jongle/player_065_gold_card.webp",
+      "diamond": "/jugadores_assets/player_065_frenkie_de_jongle/player_065_diamond_card.webp",
+      "opal": "/jugadores_assets/player_065_frenkie_de_jongle/player_065_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 66,
+    "name": "Joao Canceler",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "RB",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Lateral creativo que defiende cuando se acuerda del oficio.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_066_joao_canceler/player_066_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_066_joao_canceler/player_066_base_card.webp",
+      "bronze": "/jugadores_assets/player_066_joao_canceler/player_066_bronze_card.webp",
+      "silver": "/jugadores_assets/player_066_joao_canceler/player_066_silver_card.webp",
+      "gold": "/jugadores_assets/player_066_joao_canceler/player_066_gold_card.webp",
+      "diamond": "/jugadores_assets/player_066_joao_canceler/player_066_diamond_card.webp",
+      "opal": "/jugadores_assets/player_066_joao_canceler/player_066_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 67,
+    "name": "Nico Williamsote",
+    "club": "Athletico Bilbardo",
+    "clubCode": "AB",
+    "position": "LW",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Velocidad de ala y centro con picardia familiar.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_067_nico_williamsote/player_067_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_067_nico_williamsote/player_067_base_card.webp",
+      "bronze": "/jugadores_assets/player_067_nico_williamsote/player_067_bronze_card.webp",
+      "silver": "/jugadores_assets/player_067_nico_williamsote/player_067_silver_card.webp",
+      "gold": "/jugadores_assets/player_067_nico_williamsote/player_067_gold_card.webp",
+      "diamond": "/jugadores_assets/player_067_nico_williamsote/player_067_diamond_card.webp",
+      "opal": "/jugadores_assets/player_067_nico_williamsote/player_067_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 68,
+    "name": "Inaki Williamsito",
+    "club": "Athletico Bilbardo",
+    "clubCode": "AB",
+    "position": "ST",
+    "nationality": "GHA",
+    "flag": "GHA",
+    "bio": "Corre como hermano mayor escapando de la marca.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_068_inaki_williamsito/player_068_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_068_inaki_williamsito/player_068_base_card.webp",
+      "bronze": "/jugadores_assets/player_068_inaki_williamsito/player_068_bronze_card.webp",
+      "silver": "/jugadores_assets/player_068_inaki_williamsito/player_068_silver_card.webp",
+      "gold": "/jugadores_assets/player_068_inaki_williamsito/player_068_gold_card.webp",
+      "diamond": "/jugadores_assets/player_068_inaki_williamsito/player_068_diamond_card.webp",
+      "opal": "/jugadores_assets/player_068_inaki_williamsito/player_068_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 69,
+    "name": "Mikel Oyarzabala",
+    "club": "Real Suciedad",
+    "clubCode": "RS",
+    "position": "LW",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Zurda elegante con nombre de trabalenguas noble.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_069_mikel_oyarzabala/player_069_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_069_mikel_oyarzabala/player_069_base_card.webp",
+      "bronze": "/jugadores_assets/player_069_mikel_oyarzabala/player_069_bronze_card.webp",
+      "silver": "/jugadores_assets/player_069_mikel_oyarzabala/player_069_silver_card.webp",
+      "gold": "/jugadores_assets/player_069_mikel_oyarzabala/player_069_gold_card.webp",
+      "diamond": "/jugadores_assets/player_069_mikel_oyarzabala/player_069_diamond_card.webp",
+      "opal": "/jugadores_assets/player_069_mikel_oyarzabala/player_069_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 70,
+    "name": "Take Kuboide",
+    "club": "Real Suciedad",
+    "clubCode": "RS",
+    "position": "RW",
+    "nationality": "JPN",
+    "flag": "JPN",
+    "bio": "Japon chico, regate grande, defensa mareada.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_070_take_kuboide/player_070_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_070_take_kuboide/player_070_base_card.webp",
+      "bronze": "/jugadores_assets/player_070_take_kuboide/player_070_bronze_card.webp",
+      "silver": "/jugadores_assets/player_070_take_kuboide/player_070_silver_card.webp",
+      "gold": "/jugadores_assets/player_070_take_kuboide/player_070_gold_card.webp",
+      "diamond": "/jugadores_assets/player_070_take_kuboide/player_070_diamond_card.webp",
+      "opal": "/jugadores_assets/player_070_take_kuboide/player_070_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 71,
+    "name": "Alexander Isakito",
+    "club": "Newcastlecito",
+    "clubCode": "N",
+    "position": "ST",
+    "nationality": "SWE",
+    "flag": "SWE",
+    "bio": "Delantero fino, zancada larga y definicion de hielo.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_071_alexander_isakito/player_071_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_071_alexander_isakito/player_071_base_card.webp",
+      "bronze": "/jugadores_assets/player_071_alexander_isakito/player_071_bronze_card.webp",
+      "silver": "/jugadores_assets/player_071_alexander_isakito/player_071_silver_card.webp",
+      "gold": "/jugadores_assets/player_071_alexander_isakito/player_071_gold_card.webp",
+      "diamond": "/jugadores_assets/player_071_alexander_isakito/player_071_diamond_card.webp",
+      "opal": "/jugadores_assets/player_071_alexander_isakito/player_071_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 72,
+    "name": "Bruno Guimaraesito",
+    "club": "Newcastlecito",
+    "clubCode": "N",
+    "position": "CM",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Mete pausa brasilera en partido de martillo ingles.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_072_bruno_guimaraesito/player_072_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_072_bruno_guimaraesito/player_072_base_card.webp",
+      "bronze": "/jugadores_assets/player_072_bruno_guimaraesito/player_072_bronze_card.webp",
+      "silver": "/jugadores_assets/player_072_bruno_guimaraesito/player_072_silver_card.webp",
+      "gold": "/jugadores_assets/player_072_bruno_guimaraesito/player_072_gold_card.webp",
+      "diamond": "/jugadores_assets/player_072_bruno_guimaraesito/player_072_diamond_card.webp",
+      "opal": "/jugadores_assets/player_072_bruno_guimaraesito/player_072_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 73,
+    "name": "Anthony Gordoneta",
+    "club": "Newcastlecito",
+    "clubCode": "N",
+    "position": "LW",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Ataca al espacio como si le hubieran prometido postre.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_073_anthony_gordoneta/player_073_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_073_anthony_gordoneta/player_073_base_card.webp",
+      "bronze": "/jugadores_assets/player_073_anthony_gordoneta/player_073_bronze_card.webp",
+      "silver": "/jugadores_assets/player_073_anthony_gordoneta/player_073_silver_card.webp",
+      "gold": "/jugadores_assets/player_073_anthony_gordoneta/player_073_gold_card.webp",
+      "diamond": "/jugadores_assets/player_073_anthony_gordoneta/player_073_diamond_card.webp",
+      "opal": "/jugadores_assets/player_073_anthony_gordoneta/player_073_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 74,
+    "name": "Sandro Tonalito",
+    "club": "Newcastlecito",
+    "clubCode": "N",
+    "position": "CDM",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Volante de traje invisible y quite con espresso.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_074_sandro_tonalito/player_074_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_074_sandro_tonalito/player_074_base_card.webp",
+      "bronze": "/jugadores_assets/player_074_sandro_tonalito/player_074_bronze_card.webp",
+      "silver": "/jugadores_assets/player_074_sandro_tonalito/player_074_silver_card.webp",
+      "gold": "/jugadores_assets/player_074_sandro_tonalito/player_074_gold_card.webp",
+      "diamond": "/jugadores_assets/player_074_sandro_tonalito/player_074_diamond_card.webp",
+      "opal": "/jugadores_assets/player_074_sandro_tonalito/player_074_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 75,
+    "name": "Ollie Watkings",
+    "club": "Aston Birra",
+    "clubCode": "AB",
+    "position": "ST",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Goleador insistente, de esos que tocan timbre hasta que entra.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_075_ollie_watkings/player_075_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_075_ollie_watkings/player_075_base_card.webp",
+      "bronze": "/jugadores_assets/player_075_ollie_watkings/player_075_bronze_card.webp",
+      "silver": "/jugadores_assets/player_075_ollie_watkings/player_075_silver_card.webp",
+      "gold": "/jugadores_assets/player_075_ollie_watkings/player_075_gold_card.webp",
+      "diamond": "/jugadores_assets/player_075_ollie_watkings/player_075_diamond_card.webp",
+      "opal": "/jugadores_assets/player_075_ollie_watkings/player_075_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 76,
+    "name": "Emi Martinezzazo",
+    "club": "Aston Birra",
+    "clubCode": "AB",
+    "position": "GK",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Ataja penales con sonrisa de villano querido.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_076_emi_martinezzazo/player_076_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_076_emi_martinezzazo/player_076_base_card.webp",
+      "bronze": "/jugadores_assets/player_076_emi_martinezzazo/player_076_bronze_card.webp",
+      "silver": "/jugadores_assets/player_076_emi_martinezzazo/player_076_silver_card.webp",
+      "gold": "/jugadores_assets/player_076_emi_martinezzazo/player_076_gold_card.webp",
+      "diamond": "/jugadores_assets/player_076_emi_martinezzazo/player_076_diamond_card.webp",
+      "opal": "/jugadores_assets/player_076_emi_martinezzazo/player_076_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 77,
+    "name": "Moussa Diabycito",
+    "club": "Aston Birra",
+    "clubCode": "AB",
+    "position": "RW",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Arranca por banda y deja humito en el cesped.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_077_moussa_diabycito/player_077_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_077_moussa_diabycito/player_077_base_card.webp",
+      "bronze": "/jugadores_assets/player_077_moussa_diabycito/player_077_bronze_card.webp",
+      "silver": "/jugadores_assets/player_077_moussa_diabycito/player_077_silver_card.webp",
+      "gold": "/jugadores_assets/player_077_moussa_diabycito/player_077_gold_card.webp",
+      "diamond": "/jugadores_assets/player_077_moussa_diabycito/player_077_diamond_card.webp",
+      "opal": "/jugadores_assets/player_077_moussa_diabycito/player_077_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 78,
+    "name": "Lucas Paquetaco",
+    "club": "West Jamon",
+    "clubCode": "WJ",
+    "position": "CAM",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Baila con la pelota y a veces con el arbitro mirando.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_078_lucas_paquetaco/player_078_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_078_lucas_paquetaco/player_078_base_card.webp",
+      "bronze": "/jugadores_assets/player_078_lucas_paquetaco/player_078_bronze_card.webp",
+      "silver": "/jugadores_assets/player_078_lucas_paquetaco/player_078_silver_card.webp",
+      "gold": "/jugadores_assets/player_078_lucas_paquetaco/player_078_gold_card.webp",
+      "diamond": "/jugadores_assets/player_078_lucas_paquetaco/player_078_diamond_card.webp",
+      "opal": "/jugadores_assets/player_078_lucas_paquetaco/player_078_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 79,
+    "name": "Jarrod Bowencho",
+    "club": "West Jamon",
+    "clubCode": "WJ",
+    "position": "RW",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Extremo obrero con gol escondido en la manga.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_079_jarrod_bowencho/player_079_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_079_jarrod_bowencho/player_079_base_card.webp",
+      "bronze": "/jugadores_assets/player_079_jarrod_bowencho/player_079_bronze_card.webp",
+      "silver": "/jugadores_assets/player_079_jarrod_bowencho/player_079_silver_card.webp",
+      "gold": "/jugadores_assets/player_079_jarrod_bowencho/player_079_gold_card.webp",
+      "diamond": "/jugadores_assets/player_079_jarrod_bowencho/player_079_diamond_card.webp",
+      "opal": "/jugadores_assets/player_079_jarrod_bowencho/player_079_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 80,
+    "name": "Mohammed Kudusito",
+    "club": "West Jamon",
+    "clubCode": "WJ",
+    "position": "RW",
+    "nationality": "GHA",
+    "flag": "GHA",
+    "bio": "Amague seco y cambio de ritmo con firma.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_080_mohammed_kudusito/player_080_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_080_mohammed_kudusito/player_080_base_card.webp",
+      "bronze": "/jugadores_assets/player_080_mohammed_kudusito/player_080_bronze_card.webp",
+      "silver": "/jugadores_assets/player_080_mohammed_kudusito/player_080_silver_card.webp",
+      "gold": "/jugadores_assets/player_080_mohammed_kudusito/player_080_gold_card.webp",
+      "diamond": "/jugadores_assets/player_080_mohammed_kudusito/player_080_diamond_card.webp",
+      "opal": "/jugadores_assets/player_080_mohammed_kudusito/player_080_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 81,
+    "name": "Kaoru Mitomazo",
+    "club": "Brightoneta",
+    "clubCode": "B",
+    "position": "LW",
+    "nationality": "JPN",
+    "flag": "JPN",
+    "bio": "Regatea como tesis universitaria: preciso y peligroso.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_081_kaoru_mitomazo/player_081_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_081_kaoru_mitomazo/player_081_base_card.webp",
+      "bronze": "/jugadores_assets/player_081_kaoru_mitomazo/player_081_bronze_card.webp",
+      "silver": "/jugadores_assets/player_081_kaoru_mitomazo/player_081_silver_card.webp",
+      "gold": "/jugadores_assets/player_081_kaoru_mitomazo/player_081_gold_card.webp",
+      "diamond": "/jugadores_assets/player_081_kaoru_mitomazo/player_081_diamond_card.webp",
+      "opal": "/jugadores_assets/player_081_kaoru_mitomazo/player_081_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 82,
+    "name": "Evan Fergusoncito",
+    "club": "Brightoneta",
+    "clubCode": "B",
+    "position": "ST",
+    "nationality": "IRL",
+    "flag": "IRL",
+    "bio": "Tanque joven con pinta de futuro problema.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_082_evan_fergusoncito/player_082_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_082_evan_fergusoncito/player_082_base_card.webp",
+      "bronze": "/jugadores_assets/player_082_evan_fergusoncito/player_082_bronze_card.webp",
+      "silver": "/jugadores_assets/player_082_evan_fergusoncito/player_082_silver_card.webp",
+      "gold": "/jugadores_assets/player_082_evan_fergusoncito/player_082_gold_card.webp",
+      "diamond": "/jugadores_assets/player_082_evan_fergusoncito/player_082_diamond_card.webp",
+      "opal": "/jugadores_assets/player_082_evan_fergusoncito/player_082_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 83,
+    "name": "Joao Pedroso",
+    "club": "Brightoneta",
+    "clubCode": "B",
+    "position": "ST",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Picante, tecnico y dificil de encerrar en una casilla.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_083_joao_pedroso/player_083_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_083_joao_pedroso/player_083_base_card.webp",
+      "bronze": "/jugadores_assets/player_083_joao_pedroso/player_083_bronze_card.webp",
+      "silver": "/jugadores_assets/player_083_joao_pedroso/player_083_silver_card.webp",
+      "gold": "/jugadores_assets/player_083_joao_pedroso/player_083_gold_card.webp",
+      "diamond": "/jugadores_assets/player_083_joao_pedroso/player_083_diamond_card.webp",
+      "opal": "/jugadores_assets/player_083_joao_pedroso/player_083_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 84,
+    "name": "Dominik Szoboslaico",
+    "club": "Liverpool",
+    "clubCode": "L",
+    "position": "CM",
+    "nationality": "HUN",
+    "flag": "HUN",
+    "bio": "Patea de lejos como si el arco le quedara cerca.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_084_dominik_szoboslaico/player_084_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_084_dominik_szoboslaico/player_084_base_card.webp",
+      "bronze": "/jugadores_assets/player_084_dominik_szoboslaico/player_084_bronze_card.webp",
+      "silver": "/jugadores_assets/player_084_dominik_szoboslaico/player_084_silver_card.webp",
+      "gold": "/jugadores_assets/player_084_dominik_szoboslaico/player_084_gold_card.webp",
+      "diamond": "/jugadores_assets/player_084_dominik_szoboslaico/player_084_diamond_card.webp",
+      "opal": "/jugadores_assets/player_084_dominik_szoboslaico/player_084_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 85,
+    "name": "Darwin Nuniez",
+    "club": "Liverpool",
+    "clubCode": "L",
+    "position": "ST",
+    "nationality": "URU",
+    "flag": "URU",
+    "bio": "Caos, potencia y goles que llegan con ruido de tambor.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_085_darwin_nuniez/player_085_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_085_darwin_nuniez/player_085_base_card.webp",
+      "bronze": "/jugadores_assets/player_085_darwin_nuniez/player_085_bronze_card.webp",
+      "silver": "/jugadores_assets/player_085_darwin_nuniez/player_085_silver_card.webp",
+      "gold": "/jugadores_assets/player_085_darwin_nuniez/player_085_gold_card.webp",
+      "diamond": "/jugadores_assets/player_085_darwin_nuniez/player_085_diamond_card.webp",
+      "opal": "/jugadores_assets/player_085_darwin_nuniez/player_085_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 86,
+    "name": "Virgil Van Dique",
+    "club": "Liverpool",
+    "clubCode": "L",
+    "position": "CB",
+    "nationality": "NED",
+    "flag": "NED",
+    "bio": "Muro con trenza mental y timing de semaforo perfecto.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_086_virgil_van_dique/player_086_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_086_virgil_van_dique/player_086_base_card.webp",
+      "bronze": "/jugadores_assets/player_086_virgil_van_dique/player_086_bronze_card.webp",
+      "silver": "/jugadores_assets/player_086_virgil_van_dique/player_086_silver_card.webp",
+      "gold": "/jugadores_assets/player_086_virgil_van_dique/player_086_gold_card.webp",
+      "diamond": "/jugadores_assets/player_086_virgil_van_dique/player_086_diamond_card.webp",
+      "opal": "/jugadores_assets/player_086_virgil_van_dique/player_086_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 87,
+    "name": "Luis Diazzito",
+    "club": "Liverpool",
+    "clubCode": "L",
+    "position": "LW",
+    "nationality": "COL",
+    "flag": "COL",
+    "bio": "Gambeta alegre, motor prendido y sonrisa de contraataque.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_087_luis_diazzito/player_087_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_087_luis_diazzito/player_087_base_card.webp",
+      "bronze": "/jugadores_assets/player_087_luis_diazzito/player_087_bronze_card.webp",
+      "silver": "/jugadores_assets/player_087_luis_diazzito/player_087_silver_card.webp",
+      "gold": "/jugadores_assets/player_087_luis_diazzito/player_087_gold_card.webp",
+      "diamond": "/jugadores_assets/player_087_luis_diazzito/player_087_diamond_card.webp",
+      "opal": "/jugadores_assets/player_087_luis_diazzito/player_087_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 88,
+    "name": "Trent Alexander-Arnoldo",
+    "club": "Liverpool",
+    "clubCode": "L",
+    "position": "RB",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Centra tan bien que el balon manda postal.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_088_trent_alexander_arnoldo/player_088_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_088_trent_alexander_arnoldo/player_088_base_card.webp",
+      "bronze": "/jugadores_assets/player_088_trent_alexander_arnoldo/player_088_bronze_card.webp",
+      "silver": "/jugadores_assets/player_088_trent_alexander_arnoldo/player_088_silver_card.webp",
+      "gold": "/jugadores_assets/player_088_trent_alexander_arnoldo/player_088_gold_card.webp",
+      "diamond": "/jugadores_assets/player_088_trent_alexander_arnoldo/player_088_diamond_card.webp",
+      "opal": "/jugadores_assets/player_088_trent_alexander_arnoldo/player_088_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 89,
+    "name": "Ruben Diasito",
+    "club": "Manchesthair City",
+    "clubCode": "MC",
+    "position": "CB",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Central serio, ordena hasta el viento en los corners.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_089_ruben_diasito/player_089_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_089_ruben_diasito/player_089_base_card.webp",
+      "bronze": "/jugadores_assets/player_089_ruben_diasito/player_089_bronze_card.webp",
+      "silver": "/jugadores_assets/player_089_ruben_diasito/player_089_silver_card.webp",
+      "gold": "/jugadores_assets/player_089_ruben_diasito/player_089_gold_card.webp",
+      "diamond": "/jugadores_assets/player_089_ruben_diasito/player_089_diamond_card.webp",
+      "opal": "/jugadores_assets/player_089_ruben_diasito/player_089_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 90,
+    "name": "John Piedras",
+    "club": "Manchesthair City",
+    "clubCode": "MC",
+    "position": "CB",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Defensor que sale jugando con zapatos de salon.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_090_john_piedras/player_090_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_090_john_piedras/player_090_base_card.webp",
+      "bronze": "/jugadores_assets/player_090_john_piedras/player_090_bronze_card.webp",
+      "silver": "/jugadores_assets/player_090_john_piedras/player_090_silver_card.webp",
+      "gold": "/jugadores_assets/player_090_john_piedras/player_090_gold_card.webp",
+      "diamond": "/jugadores_assets/player_090_john_piedras/player_090_diamond_card.webp",
+      "opal": "/jugadores_assets/player_090_john_piedras/player_090_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 91,
+    "name": "Marc-Andre Ter Stegenio",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "GK",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Portero sobrio con pase de mediocampista infiltrado.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_091_marc_andre_ter_stegenio/player_091_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_091_marc_andre_ter_stegenio/player_091_base_card.webp",
+      "bronze": "/jugadores_assets/player_091_marc_andre_ter_stegenio/player_091_bronze_card.webp",
+      "silver": "/jugadores_assets/player_091_marc_andre_ter_stegenio/player_091_silver_card.webp",
+      "gold": "/jugadores_assets/player_091_marc_andre_ter_stegenio/player_091_gold_card.webp",
+      "diamond": "/jugadores_assets/player_091_marc_andre_ter_stegenio/player_091_diamond_card.webp",
+      "opal": "/jugadores_assets/player_091_marc_andre_ter_stegenio/player_091_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 92,
+    "name": "Ronald Araujojo",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "CB",
+    "nationality": "URU",
+    "flag": "URU",
+    "bio": "Defiende con mate en sangre y turbo en las piernas.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_092_ronald_araujojo/player_092_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_092_ronald_araujojo/player_092_base_card.webp",
+      "bronze": "/jugadores_assets/player_092_ronald_araujojo/player_092_bronze_card.webp",
+      "silver": "/jugadores_assets/player_092_ronald_araujojo/player_092_silver_card.webp",
+      "gold": "/jugadores_assets/player_092_ronald_araujojo/player_092_gold_card.webp",
+      "diamond": "/jugadores_assets/player_092_ronald_araujojo/player_092_diamond_card.webp",
+      "opal": "/jugadores_assets/player_092_ronald_araujojo/player_092_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 93,
+    "name": "Eder Militaocho",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "CB",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Central elastico, cabezazo serio y recuperacion de goma.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_093_eder_militaocho/player_093_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_093_eder_militaocho/player_093_base_card.webp",
+      "bronze": "/jugadores_assets/player_093_eder_militaocho/player_093_bronze_card.webp",
+      "silver": "/jugadores_assets/player_093_eder_militaocho/player_093_silver_card.webp",
+      "gold": "/jugadores_assets/player_093_eder_militaocho/player_093_gold_card.webp",
+      "diamond": "/jugadores_assets/player_093_eder_militaocho/player_093_diamond_card.webp",
+      "opal": "/jugadores_assets/player_093_eder_militaocho/player_093_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 94,
+    "name": "Eduardo Camavinguita",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "CM",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Juega de todo y encima parece improvisarlo perfecto.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_094_eduardo_camavinguita/player_094_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_094_eduardo_camavinguita/player_094_base_card.webp",
+      "bronze": "/jugadores_assets/player_094_eduardo_camavinguita/player_094_bronze_card.webp",
+      "silver": "/jugadores_assets/player_094_eduardo_camavinguita/player_094_silver_card.webp",
+      "gold": "/jugadores_assets/player_094_eduardo_camavinguita/player_094_gold_card.webp",
+      "diamond": "/jugadores_assets/player_094_eduardo_camavinguita/player_094_diamond_card.webp",
+      "opal": "/jugadores_assets/player_094_eduardo_camavinguita/player_094_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 95,
+    "name": "Aurelien Tchouameni\u00f1o",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "CDM",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Filtro elegante para que nadie pase sin pagar peaje.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_095_aurelien_tchouameni_o/player_095_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_095_aurelien_tchouameni_o/player_095_base_card.webp",
+      "bronze": "/jugadores_assets/player_095_aurelien_tchouameni_o/player_095_bronze_card.webp",
+      "silver": "/jugadores_assets/player_095_aurelien_tchouameni_o/player_095_silver_card.webp",
+      "gold": "/jugadores_assets/player_095_aurelien_tchouameni_o/player_095_gold_card.webp",
+      "diamond": "/jugadores_assets/player_095_aurelien_tchouameni_o/player_095_diamond_card.webp",
+      "opal": "/jugadores_assets/player_095_aurelien_tchouameni_o/player_095_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 96,
+    "name": "Rodrygo Goesito",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "RW",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Aparece en noches grandes como notificacion urgente.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_096_rodrygo_goesito/player_096_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_096_rodrygo_goesito/player_096_base_card.webp",
+      "bronze": "/jugadores_assets/player_096_rodrygo_goesito/player_096_bronze_card.webp",
+      "silver": "/jugadores_assets/player_096_rodrygo_goesito/player_096_silver_card.webp",
+      "gold": "/jugadores_assets/player_096_rodrygo_goesito/player_096_gold_card.webp",
+      "diamond": "/jugadores_assets/player_096_rodrygo_goesito/player_096_diamond_card.webp",
+      "opal": "/jugadores_assets/player_096_rodrygo_goesito/player_096_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 97,
+    "name": "Dani Carvajales",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "RB",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Veterano de banda con centros y cejas competitivas.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_097_dani_carvajales/player_097_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_097_dani_carvajales/player_097_base_card.webp",
+      "bronze": "/jugadores_assets/player_097_dani_carvajales/player_097_bronze_card.webp",
+      "silver": "/jugadores_assets/player_097_dani_carvajales/player_097_silver_card.webp",
+      "gold": "/jugadores_assets/player_097_dani_carvajales/player_097_gold_card.webp",
+      "diamond": "/jugadores_assets/player_097_dani_carvajales/player_097_diamond_card.webp",
+      "opal": "/jugadores_assets/player_097_dani_carvajales/player_097_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 98,
+    "name": "Fede Valverdura",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "CM",
+    "nationality": "URU",
+    "flag": "URU",
+    "bio": "Corre desde Montevideo hasta el minuto noventa.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_098_fede_valverdura/player_098_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_098_fede_valverdura/player_098_base_card.webp",
+      "bronze": "/jugadores_assets/player_098_fede_valverdura/player_098_bronze_card.webp",
+      "silver": "/jugadores_assets/player_098_fede_valverdura/player_098_silver_card.webp",
+      "gold": "/jugadores_assets/player_098_fede_valverdura/player_098_gold_card.webp",
+      "diamond": "/jugadores_assets/player_098_fede_valverdura/player_098_diamond_card.webp",
+      "opal": "/jugadores_assets/player_098_fede_valverdura/player_098_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 99,
+    "name": "Endrickcito",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "ST",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Promesa con sonrisa de spoiler y zurdazo precoz.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_099_endrickcito/player_099_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_099_endrickcito/player_099_base_card.webp",
+      "bronze": "/jugadores_assets/player_099_endrickcito/player_099_bronze_card.webp",
+      "silver": "/jugadores_assets/player_099_endrickcito/player_099_silver_card.webp",
+      "gold": "/jugadores_assets/player_099_endrickcito/player_099_gold_card.webp",
+      "diamond": "/jugadores_assets/player_099_endrickcito/player_099_diamond_card.webp",
+      "opal": "/jugadores_assets/player_099_endrickcito/player_099_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 100,
+    "name": "Randal Kolo Muanito",
+    "club": "Paris Saint-Germen",
+    "clubCode": "PS",
+    "position": "ST",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Delantero de piernas largas y decisiones con suspenso.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_100_randal_kolo_muanito/player_100_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_100_randal_kolo_muanito/player_100_base_card.webp",
+      "bronze": "/jugadores_assets/player_100_randal_kolo_muanito/player_100_bronze_card.webp",
+      "silver": "/jugadores_assets/player_100_randal_kolo_muanito/player_100_silver_card.webp",
+      "gold": "/jugadores_assets/player_100_randal_kolo_muanito/player_100_gold_card.webp",
+      "diamond": "/jugadores_assets/player_100_randal_kolo_muanito/player_100_diamond_card.webp",
+      "opal": "/jugadores_assets/player_100_randal_kolo_muanito/player_100_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 101,
+    "name": "Bradley Barcolita",
+    "club": "Paris Saint-Germen",
+    "clubCode": "PS",
+    "position": "LW",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Extremo joven con descaro de recreo largo.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_101_bradley_barcolita/player_101_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_101_bradley_barcolita/player_101_base_card.webp",
+      "bronze": "/jugadores_assets/player_101_bradley_barcolita/player_101_bronze_card.webp",
+      "silver": "/jugadores_assets/player_101_bradley_barcolita/player_101_silver_card.webp",
+      "gold": "/jugadores_assets/player_101_bradley_barcolita/player_101_gold_card.webp",
+      "diamond": "/jugadores_assets/player_101_bradley_barcolita/player_101_diamond_card.webp",
+      "opal": "/jugadores_assets/player_101_bradley_barcolita/player_101_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 102,
+    "name": "Warren Zaire-Emeryto",
+    "club": "Paris Saint-Germen",
+    "clubCode": "PS",
+    "position": "CM",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Juega adulto con edad de pedir permiso.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_102_warren_zaire_emeryto/player_102_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_102_warren_zaire_emeryto/player_102_base_card.webp",
+      "bronze": "/jugadores_assets/player_102_warren_zaire_emeryto/player_102_bronze_card.webp",
+      "silver": "/jugadores_assets/player_102_warren_zaire_emeryto/player_102_silver_card.webp",
+      "gold": "/jugadores_assets/player_102_warren_zaire_emeryto/player_102_gold_card.webp",
+      "diamond": "/jugadores_assets/player_102_warren_zaire_emeryto/player_102_diamond_card.webp",
+      "opal": "/jugadores_assets/player_102_warren_zaire_emeryto/player_102_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 103,
+    "name": "Kingsley Comancho",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "LW",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Banda rapida, regate con viento y historial de finales.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_103_kingsley_comancho/player_103_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_103_kingsley_comancho/player_103_base_card.webp",
+      "bronze": "/jugadores_assets/player_103_kingsley_comancho/player_103_bronze_card.webp",
+      "silver": "/jugadores_assets/player_103_kingsley_comancho/player_103_silver_card.webp",
+      "gold": "/jugadores_assets/player_103_kingsley_comancho/player_103_gold_card.webp",
+      "diamond": "/jugadores_assets/player_103_kingsley_comancho/player_103_diamond_card.webp",
+      "opal": "/jugadores_assets/player_103_kingsley_comancho/player_103_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 104,
+    "name": "Serge Gnabryta",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "RW",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Cuando prende, la defensa apaga la tele.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_104_serge_gnabryta/player_104_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_104_serge_gnabryta/player_104_base_card.webp",
+      "bronze": "/jugadores_assets/player_104_serge_gnabryta/player_104_bronze_card.webp",
+      "silver": "/jugadores_assets/player_104_serge_gnabryta/player_104_silver_card.webp",
+      "gold": "/jugadores_assets/player_104_serge_gnabryta/player_104_gold_card.webp",
+      "diamond": "/jugadores_assets/player_104_serge_gnabryta/player_104_diamond_card.webp",
+      "opal": "/jugadores_assets/player_104_serge_gnabryta/player_104_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 105,
+    "name": "Matthijs De Ligtito",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "CB",
+    "nationality": "NED",
+    "flag": "NED",
+    "bio": "Central de gimnasio y lectura de biblioteca.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_105_matthijs_de_ligtito/player_105_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_105_matthijs_de_ligtito/player_105_base_card.webp",
+      "bronze": "/jugadores_assets/player_105_matthijs_de_ligtito/player_105_bronze_card.webp",
+      "silver": "/jugadores_assets/player_105_matthijs_de_ligtito/player_105_silver_card.webp",
+      "gold": "/jugadores_assets/player_105_matthijs_de_ligtito/player_105_gold_card.webp",
+      "diamond": "/jugadores_assets/player_105_matthijs_de_ligtito/player_105_diamond_card.webp",
+      "opal": "/jugadores_assets/player_105_matthijs_de_ligtito/player_105_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 106,
+    "name": "Santiago Gimenezzito",
+    "club": "Feyenoordillo",
+    "clubCode": "F",
+    "position": "ST",
+    "nationality": "MEX",
+    "flag": "MEX",
+    "bio": "Area, instinto y festejo con acento de goleador.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_106_santiago_gimenezzito/player_106_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_106_santiago_gimenezzito/player_106_base_card.webp",
+      "bronze": "/jugadores_assets/player_106_santiago_gimenezzito/player_106_bronze_card.webp",
+      "silver": "/jugadores_assets/player_106_santiago_gimenezzito/player_106_silver_card.webp",
+      "gold": "/jugadores_assets/player_106_santiago_gimenezzito/player_106_gold_card.webp",
+      "diamond": "/jugadores_assets/player_106_santiago_gimenezzito/player_106_diamond_card.webp",
+      "opal": "/jugadores_assets/player_106_santiago_gimenezzito/player_106_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 107,
+    "name": "Raphinhado",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "RW",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Zurda con rabia y centro que llega silbando.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_107_raphinhado/player_107_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_107_raphinhado/player_107_base_card.webp",
+      "bronze": "/jugadores_assets/player_107_raphinhado/player_107_bronze_card.webp",
+      "silver": "/jugadores_assets/player_107_raphinhado/player_107_silver_card.webp",
+      "gold": "/jugadores_assets/player_107_raphinhado/player_107_gold_card.webp",
+      "diamond": "/jugadores_assets/player_107_raphinhado/player_107_diamond_card.webp",
+      "opal": "/jugadores_assets/player_107_raphinhado/player_107_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 108,
+    "name": "Joao Felixito",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "CAM",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Fantasia intermitente, sonrisa de lujo y pase perfumado.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_108_joao_felixito/player_108_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_108_joao_felixito/player_108_base_card.webp",
+      "bronze": "/jugadores_assets/player_108_joao_felixito/player_108_bronze_card.webp",
+      "silver": "/jugadores_assets/player_108_joao_felixito/player_108_silver_card.webp",
+      "gold": "/jugadores_assets/player_108_joao_felixito/player_108_gold_card.webp",
+      "diamond": "/jugadores_assets/player_108_joao_felixito/player_108_diamond_card.webp",
+      "opal": "/jugadores_assets/player_108_joao_felixito/player_108_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 109,
+    "name": "Denzel Dumfriesito",
+    "club": "Inter de Milanesa",
+    "clubCode": "IDM",
+    "position": "RB",
+    "nationality": "NED",
+    "flag": "NED",
+    "bio": "Lateral que pisa area como si fuera su living.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_109_denzel_dumfriesito/player_109_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_109_denzel_dumfriesito/player_109_base_card.webp",
+      "bronze": "/jugadores_assets/player_109_denzel_dumfriesito/player_109_bronze_card.webp",
+      "silver": "/jugadores_assets/player_109_denzel_dumfriesito/player_109_silver_card.webp",
+      "gold": "/jugadores_assets/player_109_denzel_dumfriesito/player_109_gold_card.webp",
+      "diamond": "/jugadores_assets/player_109_denzel_dumfriesito/player_109_diamond_card.webp",
+      "opal": "/jugadores_assets/player_109_denzel_dumfriesito/player_109_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 110,
+    "name": "Hakan Calhanogluche",
+    "club": "Inter de Milanesa",
+    "clubCode": "IDM",
+    "position": "CM",
+    "nationality": "TUR",
+    "flag": "TUR",
+    "bio": "Patea faltas con efecto de receta secreta.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_110_hakan_calhanogluche/player_110_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_110_hakan_calhanogluche/player_110_base_card.webp",
+      "bronze": "/jugadores_assets/player_110_hakan_calhanogluche/player_110_bronze_card.webp",
+      "silver": "/jugadores_assets/player_110_hakan_calhanogluche/player_110_silver_card.webp",
+      "gold": "/jugadores_assets/player_110_hakan_calhanogluche/player_110_gold_card.webp",
+      "diamond": "/jugadores_assets/player_110_hakan_calhanogluche/player_110_diamond_card.webp",
+      "opal": "/jugadores_assets/player_110_hakan_calhanogluche/player_110_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 111,
+    "name": "Manuel Locatellito",
+    "club": "Juventusaurio",
+    "clubCode": "J",
+    "position": "CDM",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Mediocampista de orden, quite y gesto italiano.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_111_manuel_locatellito/player_111_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_111_manuel_locatellito/player_111_base_card.webp",
+      "bronze": "/jugadores_assets/player_111_manuel_locatellito/player_111_bronze_card.webp",
+      "silver": "/jugadores_assets/player_111_manuel_locatellito/player_111_silver_card.webp",
+      "gold": "/jugadores_assets/player_111_manuel_locatellito/player_111_gold_card.webp",
+      "diamond": "/jugadores_assets/player_111_manuel_locatellito/player_111_diamond_card.webp",
+      "opal": "/jugadores_assets/player_111_manuel_locatellito/player_111_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 112,
+    "name": "Bremer Bronco",
+    "club": "Juventusaurio",
+    "clubCode": "J",
+    "position": "CB",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Central duro, nombre corto y despeje largo.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_112_bremer_bronco/player_112_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_112_bremer_bronco/player_112_base_card.webp",
+      "bronze": "/jugadores_assets/player_112_bremer_bronco/player_112_bronze_card.webp",
+      "silver": "/jugadores_assets/player_112_bremer_bronco/player_112_silver_card.webp",
+      "gold": "/jugadores_assets/player_112_bremer_bronco/player_112_gold_card.webp",
+      "diamond": "/jugadores_assets/player_112_bremer_bronco/player_112_diamond_card.webp",
+      "opal": "/jugadores_assets/player_112_bremer_bronco/player_112_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 113,
+    "name": "Dusan Tadicto",
+    "club": "Fenerbacheta",
+    "clubCode": "F",
+    "position": "CAM",
+    "nationality": "SRB",
+    "flag": "SRB",
+    "bio": "Veterano creativo que gambetea con libreta de trucos.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_113_dusan_tadicto/player_113_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_113_dusan_tadicto/player_113_base_card.webp",
+      "bronze": "/jugadores_assets/player_113_dusan_tadicto/player_113_bronze_card.webp",
+      "silver": "/jugadores_assets/player_113_dusan_tadicto/player_113_silver_card.webp",
+      "gold": "/jugadores_assets/player_113_dusan_tadicto/player_113_gold_card.webp",
+      "diamond": "/jugadores_assets/player_113_dusan_tadicto/player_113_diamond_card.webp",
+      "opal": "/jugadores_assets/player_113_dusan_tadicto/player_113_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 114,
+    "name": "Edin Dzekazo",
+    "club": "Fenerbacheta",
+    "clubCode": "F",
+    "position": "ST",
+    "nationality": "BIH",
+    "flag": "BIH",
+    "bio": "Nueve clasico, cabezazo sabio y gol con olor a oficio.",
+    "category": "standard",
+    "cutout": "/jugadores_assets/player_114_edin_dzekazo/player_114_cutout.webp",
+    "cards": {
+      "base": "/jugadores_assets/player_114_edin_dzekazo/player_114_base_card.webp",
+      "bronze": "/jugadores_assets/player_114_edin_dzekazo/player_114_bronze_card.webp",
+      "silver": "/jugadores_assets/player_114_edin_dzekazo/player_114_silver_card.webp",
+      "gold": "/jugadores_assets/player_114_edin_dzekazo/player_114_gold_card.webp",
+      "diamond": "/jugadores_assets/player_114_edin_dzekazo/player_114_diamond_card.webp",
+      "opal": "/jugadores_assets/player_114_edin_dzekazo/player_114_opal_card.webp"
+    }
+  },
+  {
+    "global_player_number": 115,
+    "name": "Pelegrino Rey",
+    "club": "Santos Picante",
+    "clubCode": "SP",
+    "position": "CF",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Icono absoluto, gambeta de museo y sonrisa de final eterna.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_115_pelegrino_rey/player_115_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_115_pelegrino_rey/player_115_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 116,
+    "name": "Diego Armando Maradoble",
+    "club": "Napolito",
+    "clubCode": "N",
+    "position": "CAM",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Zurda celestial, picardia terrenal y caos bendito.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_116_diego_armando_maradoble/player_116_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_116_diego_armando_maradoble/player_116_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 117,
+    "name": "Lionel Mesito",
+    "club": "Inter Miami Vice",
+    "clubCode": "IMV",
+    "position": "RW",
+    "nationality": "ARG",
+    "flag": "ARG",
+    "bio": "Peque\u00f1o hechicero que dobla partidos como servilletas.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_117_lionel_mesito/player_117_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_117_lionel_mesito/player_117_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 118,
+    "name": "Cristiano Ronaldito",
+    "club": "Al Nassardo",
+    "clubCode": "AN",
+    "position": "ST",
+    "nationality": "POR",
+    "flag": "POR",
+    "bio": "Salto imperial, grito legendario y abdominales con marketing.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_118_cristiano_ronaldito/player_118_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_118_cristiano_ronaldito/player_118_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 119,
+    "name": "Zinedine Zidanzon",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "CAM",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Elegancia calva, ruleta fina y control de seda.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_119_zinedine_zidanzon/player_119_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_119_zinedine_zidanzon/player_119_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 120,
+    "name": "Ronaldo Fenomenito",
+    "club": "Inter de Milanesa",
+    "clubCode": "IDM",
+    "position": "ST",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Potencia, sonrisa y defensores convertidos en conos tristes.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_120_ronaldo_fenomenito/player_120_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_120_ronaldo_fenomenito/player_120_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 121,
+    "name": "Ronaldinho Gauchito",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "LW",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Juega riendo y humilla con alegria contagiosa.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_121_ronaldinho_gauchito/player_121_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_121_ronaldinho_gauchito/player_121_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 122,
+    "name": "Johan Cruyffito",
+    "club": "Ajaximo",
+    "clubCode": "A",
+    "position": "CF",
+    "nationality": "NED",
+    "flag": "NED",
+    "bio": "Invento tactico con piernas, cerebro y aire de profesor.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_122_johan_cruyffito/player_122_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_122_johan_cruyffito/player_122_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 123,
+    "name": "Paolo Maldinazo",
+    "club": "AC Milanesa",
+    "clubCode": "AM",
+    "position": "CB",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Defensa elegante, pelo perfecto y timing prohibido.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_123_paolo_maldinazo/player_123_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_123_paolo_maldinazo/player_123_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 124,
+    "name": "Franz Beckenbaile",
+    "club": "Bayern Monchun",
+    "clubCode": "BM",
+    "position": "CB",
+    "nationality": "GER",
+    "flag": "GER",
+    "bio": "Sale jugando como emperador con botines lustrados.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_124_franz_beckenbaile/player_124_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_124_franz_beckenbaile/player_124_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 125,
+    "name": "Gianluigi Buffoncho",
+    "club": "Juventusaurio",
+    "clubCode": "J",
+    "position": "GK",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Guantes eternos y grito que acomoda la defensa.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_125_gianluigi_buffoncho/player_125_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_125_gianluigi_buffoncho/player_125_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 126,
+    "name": "Iker Casillitas",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "GK",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Santo reflejo, manos rapidas y cara de milagro repetido.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_126_iker_casillitas/player_126_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_126_iker_casillitas/player_126_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 127,
+    "name": "Thierry Henryto",
+    "club": "Arsenul",
+    "clubCode": "A",
+    "position": "ST",
+    "nationality": "FRA",
+    "flag": "FRA",
+    "bio": "Define de costado con elegancia de villano fino.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_127_thierry_henryto/player_127_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_127_thierry_henryto/player_127_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 128,
+    "name": "Andrea Pirlotto",
+    "club": "Juventusaurio",
+    "clubCode": "J",
+    "position": "CM",
+    "nationality": "ITA",
+    "flag": "ITA",
+    "bio": "Barba sabia y pase que llega antes que la idea.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_128_andrea_pirlotto/player_128_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_128_andrea_pirlotto/player_128_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 129,
+    "name": "Xavi Hernandito",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "CM",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Metro cuadrado infinito y tiki-taka de relojero.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_129_xavi_hernandito/player_129_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_129_xavi_hernandito/player_129_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 130,
+    "name": "Andres Iniestita",
+    "club": "Barcelonda",
+    "clubCode": "B",
+    "position": "CM",
+    "nationality": "ESP",
+    "flag": "ESP",
+    "bio": "Silencioso, magico y cruel en el minuto que duele.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_130_andres_iniestita/player_130_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_130_andres_iniestita/player_130_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 131,
+    "name": "Kaka Kafecito",
+    "club": "AC Milanesa",
+    "clubCode": "AM",
+    "position": "CAM",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Corre elegante como si el pasto fuera alfombra roja.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_131_kaka_kafecito/player_131_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_131_kaka_kafecito/player_131_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 132,
+    "name": "Roberto Carlitos",
+    "club": "Royal Madriz",
+    "clubCode": "RM",
+    "position": "LB",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Zurda misil, muslos de acero y tiro libre con curva ilegal.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_132_roberto_carlitos/player_132_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_132_roberto_carlitos/player_132_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 133,
+    "name": "David Beckhamon",
+    "club": "Manchesthair United",
+    "clubCode": "MU",
+    "position": "RM",
+    "nationality": "ENG",
+    "flag": "ENG",
+    "bio": "Centro de peluqueria fina y pie de francotirador.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_133_david_beckhamon/player_133_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_133_david_beckhamon/player_133_icon_card.webp"
+    }
+  },
+  {
+    "global_player_number": 134,
+    "name": "Neymaravilla Jr",
+    "club": "Santos Picante",
+    "clubCode": "SP",
+    "position": "LW",
+    "nationality": "BRA",
+    "flag": "BRA",
+    "bio": "Regate de carnaval, drama incluido y tobillos de lujo.",
+    "category": "icon",
+    "cutout": "/jugadores_assets/player_134_neymaravilla_jr/player_134_cutout.webp",
+    "cards": {
+      "icon": "/jugadores_assets/player_134_neymaravilla_jr/player_134_icon_card.webp"
+    }
+  }
+]
